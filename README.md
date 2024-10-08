@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntoineCrenshaw1
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning React, Javascript, Figma, and Ruby
-- 📫 How to reach me : Antoine_Crenshaw@insideranken.org
+- 🌱 I’m currently learning React, Javascript, Next.js, and Express.js
+- 📫 How to reach me : Antoine17343@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite anime is Attack On Titan
 
