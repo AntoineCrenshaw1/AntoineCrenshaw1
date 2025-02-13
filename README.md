@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AntoineCrenshaw1
-- 👀 I’m interested in Full-Stack Development
+- 👀 I’m interested in Full-Stack Development and Freelancing
 - 🌱 I’m currently learning C# and ASP.NET Core
 - 📫 How to reach me : Antoine_Crenshaw@insideranken.org
 - 😄 Pronouns: He/Him
