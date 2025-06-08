@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntoineCrenshaw1
 - 👀 I’m interested in Full-Stack Development and Freelancing
 - 🌱 I’m currently learning C# and ASP.NET Core
-- 📫 How to reach me : Antoine_Crenshaw@insideranken.org
+- 📫 How to reach me : Antoine17343@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite anime is Attack On Titan
 
