@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AntoineCrenshaw1
-- 👀 I’m interested in Full-Stack Development and open-source projects
+- 👋 Hi, I’m Antoine Crenshaw Jr.
+- 👀 I’m interested in Full-Stack Development and Quality Assurance Testing
 - 🌱 I’m currently learning Rust and Lua
 - 📫 How to reach me : Antoine17343@gmail.com
 - 😄 Pronouns: He/Him
